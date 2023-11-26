@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Cazadora borreguillo oversize",
+    "category": "Cazadoras y abrigos",
+    "price": 39.99,
+    "stock": 10,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/6713/644/742/5679cece331500fae466857ae5acc92f-6713644742_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=chrome"
+  },
+  {
+    "id": 2,
+    "name": "Cazadora teddy",
+    "category": "Cazadoras y abrigos",
+    "price": 49.99,
+    "stock": 15,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/6730/644/629/daba604ad1f4880f4fe83edc067a86de-6730644629_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=chrome"
+  },
+  {
+    "id": 3,
+    "name": "Cazadora doble faz efecto ante",
+    "category": "Cazadoras y abrigos",
+    "price": 59.99,
+    "stock": 5,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/6704/514/800/e7b4023e05617cb16d87b439e967b92a-6704514800_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=chrome"
+  },
+  {
+    "id": 4,
+    "name": "Pantalón skater baggy",
+    "category": "Pantalones",
+    "price": 29.99,
+    "stock": 20,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5496/665/800/ce76a05369615cbb799084a5b08ef87a-5496665800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 5,
+    "name": "Pantalón jogger parachute",
+    "category": "Pantalones",
+    "price": 29.99,
+    "stock": 25,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5469/228/818/9391795744e4d94e95d428b532f0ff2b-5469228818_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 6,
+    "name": "Pantalón wide leg felpa",
+    "category": "Pantalones",
+    "price": 17.99,
+    "stock": 30,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5513/737/251/0ce9b2bf320bd38c688831f1961bd22e-5513737251_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 7,
+    "name": "Pantalón tailoring pinzas",
+    "category": "Pantalones",
+    "price": 29.99,
+    "stock": 35,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5641/310/802/780e80203168175c217ca3ae9d1b875e-5641310802_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 8,
+    "name": "Jeans skater fit efecto lavado",
+    "category": "Jeans",
+    "price": 29.99,
+    "stock": 10,
+    "img": "hthttps://static.bershka.net/4/photos2/2023/I/0/2/p/5403/171/426/8ea68745502d671e25dc1fc000f5e618-5403171426_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 9,
+    "name": "Jeans super baggy",
+    "category": "Jeans",
+    "price": 29.99,
+    "stock": 5,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5420/352/800/f5a43bd73ba6bdfe44b368ba5f2a41d9-5420352800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 10,
+    "name": "Jeans baggy strass",
+    "category": "Jeans",
+    "price": 45.99,
+    "stock": 15,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5441/220/809/41879928be513b06517a3356e97fe7de-5441220809_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 11,
+    "name": "Jeans super baggy efecto lavado rotos",
+    "category": "Jeans",
+    "price": 35.99,
+    "stock": 20,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5413/171/426/86aadd5daae807d22b490e2d6e3ea87b-5413171426_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 12,
+    "name": "Jeans baggy",
+    "category": "Jeans",
+    "price": 29.99,
+    "stock": 10,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5405/335/811/2e654c9ad8c5081f41f3c326e46e78ee-5405335811_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 13,
+    "name": "backpack",
+    "category": "Sudaderas",
+    "price": 25,
+    "stock": 15,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7457/003/800/7be29bb675387c1382598bbb0620a7a5-7457003800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+  },
+  {
+    "id": 14,
+    "name": "Sudadera Junji Ito Collection capucha parches",
+    "category": "Sudaderas",
+    "price": 35.99,
+    "stock": 25,
+    "img": "https://i.ibb.co/0j3h8qL/wallet.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sudadera Gorillaz oversize print",
+    "category": "Sudaderas",
+    "price": 35.99,
+    "stock": 30,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7426/583/800/7d755d5be64d1f72e649cd3cc136dfd1-7426583800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+  },
+  {
+    "id": 16,
+    "name": "Sudadera Supernenas capucha oversize print",
+    "category": "Sudaderas",
+    "price": 35.99,
+    "stock": 20,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7467/810/250/b72498093cccf0f7a3e701fee6c0646b-7467810250_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 17,
+    "name": "Sudadera cuello redondo",
+    "category": "Sudaderas",
+    "price": 17.99,
+    "stock": 25,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7388/737/707/1cf66651f99f05c2efef2f4174e98557-7388737707_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 18,
+    "name": "Jersey print",
+    "category": "Jerséis",
+    "price": 29.99,
+    "stock": 35,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7364/623/252/4a856108249a8200683088e26d416379-7364623252_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+  },
+  {
+    "id": 19,
+    "name": "Jersey cuello polo calados",
+    "category": "Jerséis",
+    "price": 25.99,
+    "stock": 20,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7949/596/515/b3c4977f28bf813596a48504f3f4f46c-7949596515_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+  },
+  {
+    "id": 20,
+    "name": "Jersey print",
+    "category": "Jerséis",
+    "price": 29.99,
+    "stock": 25,
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7460/376/800//02/7460376800_2_4_3.jpg?t=1699951883756"
+  }
+]

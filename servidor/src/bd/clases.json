@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Arte marcial Avanzado",
+    "description": "Arte marcial Avanzado",
+    "image": "https://www.master-sh-yu.com/wp-content/uploads/2018/06/Adult-Teen-Martial-Arts-1.jpg",
+    "aforo": 5,
+    "horario": [
+      "Lunes 18:00",
+      "Martes 18:00",
+      "Miércoles 18:00",
+      "Jueves 18:00",
+      "Viernes 18:00"
+    ],
+    "profesor": 1,
+    "users": [2, 3, 7, 5]
+  },
+  {
+    "id": 2,
+    "name": "Arte marcial Medio",
+    "description": "Arte marcial Medio",
+    "image": "https://www.master-sh-yu.com/wp-content/uploads/2023/09/Promotion-Ceremony-Unmasked-2.jpg",
+    "aforo": 4,
+    "horario": [
+      "Lunes 19:00",
+      "Martes 19:00",
+      "Miércoles 19:00",
+      "Jueves 19:00",
+      "Viernes 19:00"
+    ],
+    "profesor": 3,
+    "users": [6, 4]
+  },
+  {
+    "id": 3,
+    "name": "Arte marcial Básico",
+    "description": "Arte marcial Básico",
+    "image": "https://www.master-sh-yu.com/wp-content/uploads/2023/09/Promotion-Ceremony-with-wood-board.jpg",
+    "aforo": 3,
+    "horario": [
+      "Lunes 20:00",
+      "Martes 20:00",
+      "Miércoles 20:00",
+      "Jueves 20:00",
+      "Viernes 20:00"
+    ],
+    "profesor": 4,
+    "users": [8, 9]
+  },
+  {
+    "id": 4,
+    "name": "Preparación física",
+    "description": "Preparación física",
+    "image": "https://imgcom.masterd.es/49/blog/2023/02/42452.jpeg",
+    "aforo": 1,
+    "profesor": 5,
+    "users": [2]
+  }
+]

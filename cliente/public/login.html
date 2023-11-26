@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="position-relative overflow-hidden">
+      <div class="d-flex min-vh-100" lc-helper="video-bg">
+        <video
+          style="z-index: 1; object-fit: cover; object-position: 50% 50%"
+          class="position-absolute w-100 min-vh-100"
+          autoplay=""
+          preload=""
+          muted=""
+          loop=""
+          playsinline=""
+        >
+          <source
+            src="https://static.bershka.net/4/static/images/home/2023/1125/man/D_slide_man_novedades_-1.mp4?20231126020704"
+            type="video/mp4"
+          />
+        </video>
+        <div style="z-index: 2" class="todo vw-100">
+          <div class="text-center card p-5">
+            <form class="form-signin" method="post" action="login(event)">
+              <h1 class="h3 mb-3 font-weight-normal">Login</h1>
+              <div class="form-floating mb-3">
+                <input
+                  type="email"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="name@example.com"
+                />
+                <label for="floatingInput">Email address</label>
+              </div>
+              <div class="form-floating mb-3">
+                <input
+                  type="password"
+                  class="form-control"
+                  id="floatingPassword"
+                  placeholder="Password"
+                />
+                <label for="floatingPassword">Password</label>
+                <div class="error"></div>
+              </div>
+              <button
+                class="btn btn-lg btn-primary btn-block"
+                type="button"
+                onclick="login()"
+              >
+                Acceder
+              </button>
+            </form>
+            <p class="mt-5 mb-3 text-muted">
+              ¿No tienes cuenta? <a href="/register"> registrarse </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>

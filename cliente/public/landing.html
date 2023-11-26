@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+      <div class="position-relative overflow-hidden">
+        <div class="d-flex min-vh-100" lc-helper="video-bg">
+          <video
+            style="z-index: 1; object-fit: cover; object-position: 50% 50%"
+            class="position-absolute w-100 min-vh-100"
+            autoplay=""
+            preload=""
+            muted=""
+            loop=""
+            playsinline=""
+          >
+            <source
+              src="https://static.bershka.net/4/static/images/home/2023/1125/man/D_slide_man_novedades_-1.mp4?20231126020704"
+              type="video/mp4"
+            />
+          </video>
+          <div
+            style="z-index: 2"
+            class="align-self-center text-center text-light col-md-8 offset-md-2"
+          >
+            <div class="lc-block mb-4">
+              <div editable="rich">
+                <h1 class="display-1 fw-bolder">Tienda de ropa</h1>
+              </div>
+            </div>
+
+            <div class="lc-block">
+              <div editable="rich">
+                <p class="lead">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
+                  faucibus porttitor dui.
+                </p>
+
+                <p class="lead">Sim in vestibulum metus pulvinar sit amet.</p>
+              </div>
+            </div>
+
+            <div class="lc-block">
+              <a class="icon-link icon-link-hover link-custom"  href="#acceder">
+              <svg
+                onclick="this.closest('section').nextElementSibling.scrollIntoView({ behavior: 'smooth'  });"
+                width="4em"
+                height="4em"
+                viewBox="0 0 16 16"
+                lc-helper="svg-icon"
+                fill="currentColor"
+                xmlns="http://www.w3.org/2000/svg"
+                style=""
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+                ></path>
+                <path
+                  fill-rule="evenodd"
+                  d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z"
+                ></path>
+              </svg>
+              </a>
+              <script
+                async=""
+                src="https://unpkg.com/smoothscroll-polyfill/dist/smoothscroll.min.js"
+              ></script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+  
+    <div class="container col-xxl-8 px-4 py-5 h-auto vh-100 todo">
+	<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+		<div class="col-10 col-sm-8 col-lg-6">
+			<img src="https://static.bershka.net/4/photos2/2023/I/0/2/p/6709/085/710//01/251af28c07bb3a612bdd0da5cfbe011b-6709085710_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmediumhigh&imformat=chrome" class="d-block mx-lg-auto img-fluid" alt="" loading="lazy">
+		</div>
+		<div class="col-lg-6">
+			<div class="lc-block mb-3">
+				<div editable="rich">
+					<h2 class="fw-bold display-5" id="acceder">Entrar en la tienda</h2>
+				</div>
+			</div>
+
+			<div class="lc-block mb-3">
+				<div editable="rich">
+					<p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+					</p>
+				</div>
+			</div>
+
+			<div class="lc-block d-grid gap-2 d-md-flex justify-content-md-start">
+				<a class="btn btn-outline-secondary px-4" href="/login" role="button">Acceder</a>
+			</div>
+
+		</div>
+	</div>
+</div> 
+ 
+  
+  </body>
+</html>

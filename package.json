@@ -1,0 +1,23 @@
+{
+  "name": "hito_1er_trimestre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:servidor": "cd servidor && npm run dev",
+    "dev:cliente": "cd cliente && npm run dev",
+    "dev": "concurrently \"npm run dev:servidor\" \"npm run dev:cliente\"",
+    "install": "cd cliente && npm install && cd .. && cd servidor && npm install && cd ..",
+    "sass": "cd cliente && npm run sass"
+  },
+  "keywords": [],
+  "author": "Francisco Briz",
+  "license": "ISC",
+  "eslintConfig": {
+    "parserOptions": {
+      "project": "./tsconfig.json"
+    },
+    "extends": "./node_modules/ts-standard/eslintrc.json"
+  }
+}

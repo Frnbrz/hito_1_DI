@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Mauricio Gómez",
+    "email": "mauricio@gomez",
+    "description": "Entrenador jefe de artes marciales",
+    "ceo": true,
+    "role": "instructor",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Nova",
+    "email": "sarah@nova.com",
+    "description": "Ayudante entrenadorde artes marciales",
+    "role": "asistente",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  },
+  {
+    "id": 3,
+    "name": "Guy Victory",
+    "email": "guy@victory.com",
+    "description": "Entrenador asistente de artes marciales",
+    "role": "instructor",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  },
+  {
+    "id": 4,
+    "name": "Morris Davis",
+    "email": "morris@davis.com",
+    "description": "Asistente entrenador de artes marciales",
+    "role": "asistente",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  },
+  {
+    "id": 5,
+    "name": "Traci Santiago",
+    "email": "traci@santiago.com",
+    "description": "Preparadora física",
+    "role": "preparador",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  },
+  {
+    "id": 6,
+    "name": "Harpreet Kaur",
+    "email": "harpreet@kaur.com",
+    "description": "Preparador físico",
+    "role": "preparador",
+    "password": "$2a$12$Hp9/3fR5bYxqsPzyZP9lyeDyeZ2SzmR7h3er6MhGhZKZq6xxhViAm"
+  }
+]
