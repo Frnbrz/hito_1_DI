@@ -61,7 +61,7 @@
     "category": "Jeans",
     "price": 29.99,
     "stock": 10,
-    "img": "hthttps://static.bershka.net/4/photos2/2023/I/0/2/p/5403/171/426/8ea68745502d671e25dc1fc000f5e618-5403171426_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5403/171/400/cf71f5266f3bdd46b08470170e0c0478-5403171400_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
   },
   {
     "id": 9,
@@ -97,11 +97,11 @@
   },
   {
     "id": 13,
-    "name": "backpack",
+    "name": "Sudadera capucha boxy fit efecto lavado",
     "category": "Sudaderas",
     "price": 25,
     "stock": 15,
-    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7457/003/800/7be29bb675387c1382598bbb0620a7a5-7457003800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7448/732/800/c174f262f50ce7bfd25780abe9d5d221-7448732800_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=chrome"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "Sudaderas",
     "price": 35.99,
     "stock": 25,
-    "img": "https://i.ibb.co/0j3h8qL/wallet.jpg"
+    "img": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7457/003/800//01/7457003800_2_4_3.jpg?t=1696423107204"
   },
   {
     "id": 15,
