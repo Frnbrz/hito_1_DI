@@ -41,6 +41,7 @@ export interface Product {
 export interface Compra {
   id: number
   products: Product.id[]
+  date: string
   total: number
   user: number
 }
