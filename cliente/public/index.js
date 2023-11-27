@@ -22,6 +22,7 @@ function login() {
 function logout() {
   document.cookie = 'token=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'
   localStorage.removeItem('usuario')
+  localStorage.removeItem('cart')
   window.history.pushState({}, '', '/login')
   window.location.reload()
 }
@@ -240,3 +241,10 @@ function borrarseClase(id) {
     window.location.reload()
   }
 }
+
+const prueba = {
+  name: 'prueba',
+  email: 'hola'
+}
+
+console.log(prueba)
