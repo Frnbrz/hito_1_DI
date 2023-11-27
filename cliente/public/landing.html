@@ -54,7 +54,6 @@
                 lc-helper="svg-icon"
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
-                style=""
               >
                 <path
                   fill-rule="evenodd"
@@ -77,15 +76,15 @@
     </div>
      
   
-    <div class="container col-xxl-8 px-4 py-5 h-auto vh-100 todo">
+    <div class="container col-xxl-8 px-4 py-5 h-auto vh-100 todo" id="acceder">
 	<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 		<div class="col-10 col-sm-8 col-lg-6">
 			<img src="https://static.bershka.net/4/photos2/2023/I/0/2/p/6709/085/710//01/251af28c07bb3a612bdd0da5cfbe011b-6709085710_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmediumhigh&imformat=chrome" class="d-block mx-lg-auto img-fluid" alt="" loading="lazy">
 		</div>
-		<div class="col-lg-6">
+		<div class="col-lg-6" >
 			<div class="lc-block mb-3">
 				<div editable="rich">
-					<h2 class="fw-bold display-5" id="acceder">Entrar en la tienda</h2>
+					<h2 class="fw-bold display-5" >Entrar en la tienda</h2>
 				</div>
 			</div>
 
@@ -98,12 +97,37 @@
 
 			<div class="lc-block d-grid gap-2 d-md-flex justify-content-md-start">
 				<a class="btn btn-outline-secondary px-4" href="/login" role="button">Acceder</a>
+				<a class="btn btn-outline-primary px-4" href="#dondeEstamos" role="button">Donde estamos</a>
 			</div>
 
 		</div>
 	</div>
-</div> 
- 
   
+
+</div>
+
+
+<div class="container-sm vh-100" id="dondeEstamos">
+
+
+
+<div class="row flex-lg-row-reverse align-items-center g-5 py-5 vh-100">
+      <div class="col-10 col-sm-8 col-lg-6 w-50 h-50" >
+        <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+        class="w-100 h-100"
+    style="border:0" allowfullscreen></iframe>  
+      </div>
+      <div class="col-lg-6">
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Donde estamos</h1>
+        <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis corrupti quam iure earum fugit aperiam repellat illo cupiditate explicabo perferendis, expedita sapiente eveniet. Nemo ipsa temporibus cupiditate iure. Est, ut.</p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          				<a class="btn btn-outline-secondary px-4" href="#acceder" role="button">Nuestra tienda</a>
+
+          <button type="button" class="btn btn-outline-primary px-4" disabled>Encontrar mas tiendas</button>
+        </div>
+      </div>
+    </div>
+  </div>
   </body>
+
 </html>
